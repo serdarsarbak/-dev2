@@ -1,2 +1,2 @@
 # html-2.odev
-patika dev 2. ödevi
+patika dev html 2. ödevi
